@@ -12,3 +12,6 @@ def tptint(obj):
 if __name__ == "__main__":
     hi_instance = HI("Maksat")
     tptint(hi_instance)
+
+
+print()
